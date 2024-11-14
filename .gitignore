@@ -1,0 +1,7 @@
+.env
+logs
+tests/logs
+.idea
+.venv
+tests/test.db
+test.db
